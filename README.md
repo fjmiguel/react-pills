@@ -1,2 +1,2 @@
 # react-pills
-React snippets for learning purposes
+React snippets for learning purposes.
